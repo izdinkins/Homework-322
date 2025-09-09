@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    text-align: left;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto 20px auto;
+    border: 2px solid #eee;
+  }
+  
+  .black {
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .orange {
+    color: black;
+    background-color: orange;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .red {
+    color: red;
+    font-weight: bold;
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 20px;
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  p {
+    margin: 0;       
+    padding: 0;     
+  }
+  
